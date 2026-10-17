@@ -1,0 +1,19 @@
+{
+  "score_method": "ssGSEA (gseapy, sample_norm_method=rank)",
+  "n_perm": 5000,
+  "seed": 2026,
+  "batch": 100,
+  "n_present": 591,
+  "n_missing": 328,
+  "d_obs": 1.8479275584897847,
+  "p_obs": 2.3257000695043657e-21,
+  "null_mean": 0.5885021250209965,
+  "null_sd": 1.0302011634289359,
+  "null_q95": 2.2882554561596757,
+  "null_q99": 2.952188049864468,
+  "p_emp_one": 0.11717656468706258,
+  "p_emp_two": 0.1235752849430114,
+  "z_emp": 1.2225043789281882,
+  "n_sepsis": 479,
+  "n_control": 42
+}
