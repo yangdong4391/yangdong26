@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.Rhistory
+.RData
+*.log
+GSE65682_gene_matrix*.csv
+GSE235046_Count_table.txt.gz
+GSE65682_series_matrix.txt.gz

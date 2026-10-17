@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+authors:
+  - family-names: Yang
+    given-names: Dong
+    email: 1023815889@qq.com
+title: "Reanalysis code: mTORC2-RhoA-actin axis in mitoxyperilysis (human sepsis validation)"
+version: 1.0.0
+date-released: "2026-10-16"
+license: MIT
